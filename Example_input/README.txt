@@ -1,3 +1,5 @@
+NOTE: Extract Control1F.zip and Control1R.zip before using these as input.
+
 # Details about the provided input data: 
 
 Organism: Mycobacterium tuberculosis H37Rv
